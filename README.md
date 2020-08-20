@@ -5,7 +5,7 @@ A dos script to automate benchmark testing. If you have forgotten or a novice [h
  - link to pdf docs of 3dmark
  - Documentation other benchmark-tools that you want to use  
 ## To do
- [] Suman da jane :D
+- [ ] Suman da jane :D
 
 ## How to use
  পরে দেখা যাবে।   
