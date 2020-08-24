@@ -4,7 +4,7 @@ A dos script to automate benchmark testing. If you have forgotten or a novice [h
 ## Resources
  - [3DMark-CommandLineGuide 2020](https://github.com/mm-crj/benchmark-script/blob/master/3dmark-command-line-guide.pdf)
  - [3DMark-CommandLineGuide 2018](https://github.com/mm-crj/benchmark-script/blob/master/3DMark-CommandLineGuide.pdf)
- - Documentation other benchmark-tools that we want to use.  
+ - Documentation for other benchmark-tools that we want to use.  
 ## Objectives
  - [10:20 PM, 8/19/2020] Suman : Thats the latest one
  - [10:21 PM, 8/19/2020] Suman : Main test duto
